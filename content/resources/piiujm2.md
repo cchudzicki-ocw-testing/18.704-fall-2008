@@ -13,6 +13,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: piiUJM2
-type: OCWFile
 uid: d808a0ee-c776-5b05-f87d-9c8f03e97bb6
 ---

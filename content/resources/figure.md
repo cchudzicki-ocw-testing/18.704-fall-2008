@@ -13,6 +13,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: figure
-type: OCWFile
 uid: 224d8fe4-51fb-7d35-c39e-4d329144788e
 ---
