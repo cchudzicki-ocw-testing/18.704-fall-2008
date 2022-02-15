@@ -9,6 +9,7 @@ description: 'These files are the two source files and two compiled versions of 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/18-704-seminar-in-algebra-and-number-theory-computational-commutative-algebra-and-algebraic-geometry-fall-2008/d808a0eec7765b05f87d9c8f03e97bb6_piiUJM2.dvi
 file_type: application/x-dvi
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
