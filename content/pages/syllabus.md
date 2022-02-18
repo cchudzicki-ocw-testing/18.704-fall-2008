@@ -41,7 +41,7 @@ Problems with numbers between braces are to be written up formally in TeX and pa
 Calendar
 --------
 
-The lecture sessions follow the contents of the course textbook. Two to four sessions are required to cover each chapter in the book. See the [readings]({{< baseurl >}}/pages/readings) section for specific topics per session.
+The lecture sessions follow the contents of the course textbook. Two to four sessions are required to cover each chapter in the book. See the {{< resource_link 8d680d40-2110-e944-e764-5c2ef39dcb86 "readings" >}} section for specific topics per session.
 
 ### Topics
 
