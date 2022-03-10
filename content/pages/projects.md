@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Projects
 uid: e2639c1b-b597-76d9-fb97-1a2d2870940b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The term paper is to be a ten-page essay on a topic related to the course. The goal is for you to learn something new, and to explain it clearly to others in the class, or better, to other upper-class math majors. The paper must be written in a professional style, and formatted in AMS-LaTeX, like the papers in MIT's Undergraduate Journal of Mathematics. Some helpful resources are found in the {{% resource_link fee3b78c-47d5-bb0a-ca4c-895f418ec0ed "study materials" %}} section. If you do a good job on your paper, then, possibly after further editing, it can be published in the next volume. (MIT students only.)

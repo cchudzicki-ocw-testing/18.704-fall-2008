@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
 uid: fee3b78c-47d5-bb0a-ca4c-895f418ec0ed
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Here are some files to help you write mathematics in a way that is more professional in style and format.

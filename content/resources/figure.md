@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: figure
 uid: 224d8fe4-51fb-7d35-c39e-4d329144788e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

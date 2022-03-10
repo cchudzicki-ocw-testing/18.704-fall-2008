@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: piiUJM2
 uid: d808a0ee-c776-5b05-f87d-9c8f03e97bb6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
