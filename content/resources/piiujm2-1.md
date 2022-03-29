@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: fee3b78c-47d5-bb0a-ca4c-895f418ec0ed
 resourcetype: Document
 title: piiujm2
 uid: e141fc9e-9109-dc4c-ee3a-7961c1a26a79
