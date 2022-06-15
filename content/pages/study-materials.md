@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides tools to help you write mathematics in a way that
+  is more professional in style and format.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the list of assignments from the course textbook.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

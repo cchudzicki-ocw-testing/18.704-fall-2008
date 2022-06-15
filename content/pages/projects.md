@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course term paper assignment,
+  including key dates and a list of possible topics.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
