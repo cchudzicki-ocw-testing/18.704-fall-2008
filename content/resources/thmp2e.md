@@ -5,6 +5,7 @@ description: One of two TeX files for the department's Undergraduate Journal of 
 file: /courses/18-704-seminar-in-algebra-and-number-theory-computational-commutative-algebra-and-algebraic-geometry-fall-2008/a3c31c71aae35f7e011c5eacd80050ce_thmp2e.sty
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

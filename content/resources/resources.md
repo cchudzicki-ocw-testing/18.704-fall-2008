@@ -5,6 +5,7 @@ description: Links to information on the TeX program and packages, available as 
 file: /courses/18-704-seminar-in-algebra-and-number-theory-computational-commutative-algebra-and-algebraic-geometry-fall-2008/7feafde34fdd66975a2677b39db4b959_resources.txt
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
